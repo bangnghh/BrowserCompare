@@ -7,10 +7,13 @@
 		<verbose>false</verbose>
 		<channels>
 			<channel>browser.1</channel>
+			<!--
 			<channel>browser.2</channel>
-            <channel>FileUploadDownloadChannel</channel>
-            <channel>DbUploadDownloadChannel</channel>	
-			<channel>FileUploadChannel<channel>		
+			-->
+            <channel>downloadChannel</channel>
+			<!--
+            <channel>DbUploadDownloadChannel</channel>
+			-->
 		</channels>
 	</instance>
 </instances>
