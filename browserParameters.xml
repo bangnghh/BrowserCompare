@@ -51,7 +51,7 @@
         </parameter>
         <parameter>
             <parameterName>fileUploadChannel</parameterName>
-            <parameterValue>FileUploadDownloadChannel</parameterValue>
+            <parameterValue>FileUploadChannel</parameterValue>
             <!--multiple channel names can be specified by using | delimiter and respective channel definitions should be updated in channels.xml and browserConnection.xml files -->
         </parameter>
         <parameter>
